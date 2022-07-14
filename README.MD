@@ -28,15 +28,6 @@ I have just started my journey to learn full stack WEB3 development
 
 
 
-
-## Used By
-
-This project is used by the following companies:
-
-- Company 1
-- Company 2
-
-
 ## Feedback
 
 If you have any feedback, please reach out to me at willyeth01@gmail.com
